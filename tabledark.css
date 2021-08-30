@@ -1,0 +1,33 @@
+tr {
+    background-color: #18171c;
+    font-family: Gadugi;
+    color: antiquewhite;
+    text-align: left;
+    border: 5px solid black;
+
+}
+table {
+    width: 1200px;
+    height: 600px;
+    border: 0px solid #18171c;
+    border-collapse: collapse;
+
+
+}
+.row {
+    background-color: #26232c;
+    color: #616161;
+
+}
+.row1 {
+    background-color: #2e2c39;
+
+}
+/*th , td {*/
+/*    border-bottom: 11px solid #18171c;*/
+/*    border: 0px ;*/
+/*}*/
+.james {
+    color: darkgrey;
+    font-weight: bold;
+}

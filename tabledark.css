@@ -23,12 +23,13 @@ table {
     background-color: #2e2c39;
 
 }
-/*th , td {*/
-/*    border-bottom: 11px solid #18171c;*/
-/*    border: 0px ;*/
-/*}*/
 .james {
     color: darkgrey;
     font-weight: bold;
+}
+p:last-child {
+    color: #8d8b90;
+    font-size: 13px;
+    margin: 0px;
 }
 
